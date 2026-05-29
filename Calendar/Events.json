@@ -1,0 +1,28 @@
+{
+  "Events": [
+    {
+      "Title": "Dentist appointment",
+      "Start": "2025-06-03T10:30",
+      "Participants": ["Johnny"],
+      "Location": "Smile Clinic, Main St"
+    },
+    {
+      "Title": "Team standup",
+      "Start": "2025-06-02T09:00+02:00",
+      "Participants": ["Johnny", "Priya", "Marcus"],
+      "Location": "Online"
+    },
+    {
+      "Title": "Conference call with New York",
+      "Start": "2025-06-04T15:00:00Z",
+      "Participants": ["Johnny", "Sarah", "Tom", "Lucia"],
+      "Location": "Zoom"
+    },
+    {
+      "Title": "Birthday dinner",
+      "Start": "2025-06-07",
+      "Participants": ["Johnny", "Jan", "Dan", "Aron"],
+      "Location": "La Trattoria"
+    }
+  ]
+}

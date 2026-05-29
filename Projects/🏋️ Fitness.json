@@ -1,0 +1,8 @@
+{
+  "Goal": "Run a 10k by end of summer",
+  "Log": [
+    {"Date": "2025-05-26T07:30", "Activity": "Run", "Distance km": 6.2, "Notes": "Felt strong"},
+    {"Date": "2025-05-24T08:00", "Activity": "Weights", "Distance km": null, "Notes": "Upper body"},
+    {"Date": "2025-05-22T07:15", "Activity": "Run", "Distance km": 5.8, "Notes": "A bit tired"}
+  ]
+}

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "File": "[[Preferences.json]]",
+    "Scope": "Personal preferences and settings"
+  },
+  {
+    "File": "[[To-dos.json]]",
+    "Scope": "Active, someday, and completed to-do items"
+  },
+  {
+    "File": "[[Deep nesting.json]]",
+    "Scope": "A deliberately nested object eight levels deep, to verify the UI renders arbitrarily nested structures"
+  },
+  {
+    "File": "[[Projects/Citizenship.json]]",
+    "Scope": "Track applications, documents, and deadlines for the citizenship process"
+  },
+  {
+    "File": "[[Projects/\ud83c\udfcb\ufe0f Fitness.json]]",
+    "Scope": "Fitness goal and workout log with naive datetimes"
+  },
+  {
+    "File": "[[Projects/A very long filename that tests how the UI handles lengthy titles.json]]",
+    "Scope": "Placeholder file for testing long filename rendering in the UI"
+  },
+  {
+    "File": "[[Projects/Language learning/Spanish.json]]",
+    "Scope": "Spanish learning progress, resources, and vocabulary stats"
+  },
+  {
+    "File": "[[Calendar/Events.json]]",
+    "Scope": "Upcoming calendar events covering all four ISO datetime formats: date-only, naive datetime, UTC, and offset"
+  },
+  {
+    "File": "[[Notes/Kitchen sink.md]]",
+    "Scope": "Single markdown file exercising every formatting feature: H1-H4, bold, italic, strikethrough, inline code, block code, blockquote, bullet list, numbered list, wikilink, bare URL, labeled link, multiple paragraphs, HTML comment"
+  },
+  {
+    "File": "[[Notes/Random thoughts.md]]",
+    "Scope": "Miscellaneous notes with wikilinks to two other primary files"
+  }
+]
