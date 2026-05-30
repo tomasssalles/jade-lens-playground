@@ -25,6 +25,13 @@ Numbered list:
 2. Step two
 3. Step three
 
+Checkboxes:
+
+- [ ] Still haven't started
+- [x] Already finished. 
+- [x] Also done.
+- [ ] Working on it!
+
 ## Code block
 
 ```python
