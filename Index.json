@@ -40,7 +40,7 @@
     "Scope": "Miscellaneous notes with wikilinks to two other primary files"
   },
   {
-    "File": "[[Shopping lists.json]]",
-    "Scope": "Shopping lists for meals and errands"
+    "File": "[[Shopping lists.md]]",
+    "Scope": "Shopping lists as markdown checkboxes, one section per list"
   }
 ]
