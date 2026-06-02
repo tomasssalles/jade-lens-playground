@@ -16,7 +16,7 @@
     "Scope": "Track applications, documents, and deadlines for the citizenship process"
   },
   {
-    "File": "[[Projects/\ud83c\udfcb\ufe0f Fitness.json]]",
+    "File": "[[Projects/🏋️ Fitness.json]]",
     "Scope": "Fitness goal and workout log with naive datetimes"
   },
   {
@@ -38,5 +38,9 @@
   {
     "File": "[[Notes/Random thoughts.md]]",
     "Scope": "Miscellaneous notes with wikilinks to two other primary files"
+  },
+  {
+    "File": "[[Shopping lists.json]]",
+    "Scope": "Shopping lists for meals and errands"
   }
 ]
