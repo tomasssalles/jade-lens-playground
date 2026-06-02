@@ -1,7 +1,7 @@
 # Hotdogs tonight
 _2026-06-02_
 
-- [ ] Hotdog sausages
+- [x] Hotdog sausages
 - [ ] Hotdog buns
 - [ ] Mustard
 - [ ] Ketchup
