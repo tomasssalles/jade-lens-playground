@@ -3,7 +3,7 @@ _2026-06-02_
 
 - [x] Hotdog sausages
 - [x] Hotdog buns
-- [ ] Mustard
+- [x] Mustard
 - [ ] Ketchup
 - [ ] Relish
 - [ ] Onion
