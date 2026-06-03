@@ -6,4 +6,4 @@ _2026-06-02_
 - [x] Mustard
 - [ ] Ketchup
 - [ ] Relish
-- [x] Onion
+- [ ] Onion
