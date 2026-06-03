@@ -23,3 +23,4 @@
 {"ts":"2026-06-03T07:23:30.554Z","commit_message":"Manual edit: toggled checkbox — Shopping lists.md","operations":[{"op":"unified_diff","path":"Shopping lists.md","diff":"@@ -6,1 +6,1 @@\n-- [x] Mustard\n+- [ ] Mustard\n"}]}
 {"ts":"2026-06-03T09:02:37.011Z","commit_message":"Manual edit: toggled checkbox — Notes/Kitchen sink.md","operations":[{"op":"unified_diff","path":"Notes/Kitchen sink.md","diff":"@@ -33,1 +33,1 @@\n-- [ ] Working on it!\n+- [x] Working on it!\n"}]}
 {"ts":"2026-06-03T09:02:44.320Z","commit_message":"Manual edit: toggled checkbox — Notes/Kitchen sink.md","operations":[{"op":"unified_diff","path":"Notes/Kitchen sink.md","diff":"@@ -33,1 +33,1 @@\n-- [x] Working on it!\n+- [ ] Working on it!\n"}]}
+{"ts":"2026-06-03T09:05:03.180Z","commit_message":"Manual edit: updated /Active/2/Done — To-dos.json","operations":[{"op":"json_patch","path":"To-dos.json","patch":[{"op":"replace","path":"/Active/2/Done","value":true}]}]}

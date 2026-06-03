@@ -1,11 +1,30 @@
 {
   "Active": [
-    {"Task": "Buy groceries", "Due date": "2025-06-01", "Done": false, "Notes": "Don't forget oat milk"},
-    {"Task": "Call dentist", "Due date": "2025-05-30", "Done": false, "Notes": null},
-    {"Task": "Review lease renewal", "Due date": "2025-06-10", "Done": false, "Notes": "Check clause 7"}
+    {
+      "Task": "Buy groceries",
+      "Due date": "2025-06-01",
+      "Done": false,
+      "Notes": "Don't forget oat milk"
+    },
+    {
+      "Task": "Call dentist",
+      "Due date": "2025-05-30",
+      "Done": false,
+      "Notes": null
+    },
+    {
+      "Task": "Review lease renewal",
+      "Due date": "2025-06-10",
+      "Done": true,
+      "Notes": "Check clause 7"
+    }
   ],
   "Someday": [
-    {"Task": "Learn to make sourdough", "Done": false, "Notes": null}
+    {
+      "Task": "Learn to make sourdough",
+      "Done": false,
+      "Notes": null
+    }
   ],
   "Completed": []
 }
