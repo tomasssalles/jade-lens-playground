@@ -5,5 +5,5 @@ _2026-06-02_
 - [ ] Hotdog buns
 - [x] Mustard
 - [ ] Ketchup
-- [ ] Relish
+- [x] Relish
 - [x] Onion
