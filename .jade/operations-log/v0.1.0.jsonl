@@ -27,3 +27,4 @@
 {"ts":"2026-06-03T09:05:06.013Z","commit_message":"Manual edit: updated /Active/2/Done — To-dos.json","operations":[{"op":"json_patch","path":"To-dos.json","patch":[{"op":"replace","path":"/Active/2/Done","value":false}]}]}
 {"ts":"2026-06-03T09:05:09.779Z","commit_message":"Manual edit: updated /Active/2/Done — To-dos.json","operations":[{"op":"json_patch","path":"To-dos.json","patch":[{"op":"replace","path":"/Active/2/Done","value":true}]}]}
 {"ts":"2026-06-03T09:05:13.079Z","commit_message":"Manual edit: updated /Active/0/Done — To-dos.json","operations":[{"op":"json_patch","path":"To-dos.json","patch":[{"op":"replace","path":"/Active/0/Done","value":true}]}]}
+{"ts":"2026-06-03T09:05:21.394Z","commit_message":"Manual edit: updated /Someday/0/Done — To-dos.json","operations":[{"op":"json_patch","path":"To-dos.json","patch":[{"op":"replace","path":"/Someday/0/Done","value":true}]}]}
