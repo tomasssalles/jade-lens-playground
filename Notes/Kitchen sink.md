@@ -30,7 +30,7 @@ Checkboxes:
 - [ ] Still haven't started
 - [x] Already finished. 
 - [x] Also done.
-- [x] Working on it!
+- [ ] Working on it!
 
 ## Code block
 
