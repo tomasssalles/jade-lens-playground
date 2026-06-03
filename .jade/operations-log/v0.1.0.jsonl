@@ -31,3 +31,4 @@
 {"ts":"2026-06-03T09:06:16.394Z","commit_message":"Manual edit: updated /Premium member — Preferences.json","operations":[{"op":"json_patch","path":"Preferences.json","patch":[{"op":"replace","path":"/Premium member","value":false}]}]}
 {"ts":"2026-06-03T12:44:43.741Z","commit_message":"Manual edit: updated /Premium member — Preferences.json","operations":[{"op":"json_patch","path":"Preferences.json","patch":[{"op":"replace","path":"/Premium member","value":true}]}]}
 {"ts":"2026-06-03T12:45:02.477Z","commit_message":"Manual edit: updated /Weekly budget — Preferences.json","operations":[{"op":"json_patch","path":"Preferences.json","patch":[{"op":"replace","path":"/Weekly budget","value":451.79}]}]}
+{"ts":"2026-06-03T12:45:09.493Z","commit_message":"Manual edit: updated /Age — Preferences.json","operations":[{"op":"json_patch","path":"Preferences.json","patch":[{"op":"replace","path":"/Age","value":-12}]}]}
