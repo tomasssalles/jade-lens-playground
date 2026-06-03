@@ -3,7 +3,7 @@
     {
       "Task": "Buy groceries",
       "Due date": "2025-06-01",
-      "Done": false,
+      "Done": true,
       "Notes": "Don't forget oat milk"
     },
     {
