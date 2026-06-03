@@ -27,7 +27,7 @@ Numbered list:
 
 Checkboxes:
 
-- [ ] Still haven't started
+- [x] Still haven't started
 - [x] Already finished. 
 - [x] Also done.
 - [ ] Working on it!
